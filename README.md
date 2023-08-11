@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+This is Aniketh Kulkarni
+Passionate working with Technology.
 <!--
 **aniketh-kulkarni/Aniketh-Kulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
