@@ -3,7 +3,6 @@ Big Sales Prediction Using Random Forest Regressor
 Project Overview:
 The objective of this project is to predict sales of items using a Random Forest Regressor. The dataset contains information about various items and their sales across different outlets. The goal is to create a model that accurately predicts item outlet sales based on several features.
 
-Project Structure:
 1. Import Libraries:
    - Necessary libraries such as pandas, numpy, and seaborn are imported for data manipulation, analysis, and visualization.
 
